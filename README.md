@@ -1,4 +1,29 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Michael David Ruiz Torres</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/michael-david-ruiz-torres-480277174/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="heimdallmd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<p align="left">Soy estudiante de tercer semestre en Ingeniería de Software (o la carrera que estés cursando) con una certificación como Programador Junior. Me apasiona el desarrollo de software y he construido una base sólida en lenguajes como Java, JavaScript, Python, Ruby y C#, así como en frameworks como Spring Boot, lo que me permite adaptarme rápidamente a distintos entornos y retos tecnológicos.<br><br>Actualmente estoy en la búsqueda de oportunidades remotas que me permitan seguir creciendo profesionalmente, aportar mis habilidades técnicas y seguir aprendiendo junto a equipos dinámicos. Me destaco por mi capacidad de aprendizaje autónomo, responsabilidad y compromiso con la calidad del código.<br><br>Estoy especialmente interesado en roles de desarrollo backend o soporte técnico de software, donde pueda aplicar mis conocimientos y seguir evolucionando como desarrollador.</p>
 
 ###
 
@@ -26,17 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/michael-david-ruiz-torres-480277174/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="heimdallmd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
